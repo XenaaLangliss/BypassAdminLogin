@@ -2,8 +2,8 @@
 Version : 1.0
 
 ## How To Install in Termux
-```
-pkg update -y
+
+```pkg update -y
 pkg upgrade - y
 pkg install python -y
 pkg install git -y
