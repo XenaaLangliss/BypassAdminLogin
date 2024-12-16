@@ -10,6 +10,7 @@ pkg install python -y
 pkg install git -y
 git clone https://github.com/XenaaLangliss/BypassAdminLogin
 cd BypassAdminLogin
+pip install --upgrade setuptools
 pip install -r requirements.txt
 python BypassAdmin.py
 ```
