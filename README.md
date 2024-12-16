@@ -1,5 +1,5 @@
-#BypasaAdminLogin
-Version : 1.0
+## BypasaAdminLogin
+**Version : 1.0**
 
 ## How To Install in Termux
 
@@ -14,4 +14,4 @@ pip install -r requirements.txt
 python BypasaAdmin.py
 
 ```
-**Thank You For Using This Script**
+**Thanks You For Using This Script**
