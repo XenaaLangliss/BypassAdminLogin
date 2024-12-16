@@ -11,7 +11,7 @@ pkg install git -y
 git clone https://github.com/XenaaLangliss/BypassAdminLogin
 cd BypassAdminLogin
 pip install -r requirements.txt
-python BypasaAdmin.py
+python BypassAdmin.py
 
 ```
 **Thanks You For Using This Script**
