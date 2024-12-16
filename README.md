@@ -12,6 +12,5 @@ git clone https://github.com/XenaaLangliss/BypassAdminLogin
 cd BypassAdminLogin
 pip install -r requirements.txt
 python BypassAdmin.py
-
 ```
 **Thanks You For Using This Script**
