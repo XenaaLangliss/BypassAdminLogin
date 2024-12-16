@@ -1,4 +1,4 @@
-## BypasaAdminLogin
+## BypassAdminLogin
 **Version : 1.0**
 
 ## How To Install in Termux
